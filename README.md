@@ -2,30 +2,33 @@
 
 ### Projects
 <table>
-      <tbody>
+      <tbody><tr><strong>
+          <td>Unit No. #</td>
+          <td>Unit Identifier</td>
+          <td>URL / Link</td></strong>
+        </tr> 
         <tr>
-        <td></td>
-          <td>Informal News &amp; Newsletters</td>
+          <td>1.</td>
+          <td>Freak ventures LLC.</td>
+          <td><a href="">website rolling soon</a></td>
+        </tr> 
+        <tr>
+          <td>2.</td>
+          <td></td>
+          <td><a href="">111</a></td>
+        </tr><tr>
+          <td>3.</td>
+          <td></td>
           <td><a href="">111</a></td>
         </tr> <tr>
-          <td>Informal News &amp; Newsletters</td>
-          <td><a href="">111</a></td>
+          <td>4.</td>
+          <td></td>
+          <td><a href="">x</a></td>
         </tr> <tr>
-          <td>Informal News &amp; Newsletters</td>
+          <td>5.</td>
+          <td></td>
           <td><a href="">111</a></td>
-        </tr> <tr>
-          <td>Informal News &amp; Newsletters</td>
-          <td><a href="">111</a></td>
-        </tr> <tr>
-          <td>Informal News &amp; Newsletters</td>
-          <td><a href="">111</a></td>
-        </tr> <tr>
-          <td>Informal News &amp; Newsletters</td>
-          <td><a href="">111</a></td>
-        </tr> <tr>
-          <td>Informal News &amp; Newsletters</td>
-          <td><a href="">111</a></td>
-        </tr>
+        </tr> 
       </tbody>
     </table>
 

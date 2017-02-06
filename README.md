@@ -28,3 +28,9 @@
         </tr>
       </tbody>
     </table>
+
+      <footer class="site-footer">
+        
+        <span class="site-footer-credits"> © 2017<a href="https://FreakVentures.github.io"> Freak Ventures Ltd.</a>.</span>
+        <br><span>All rights reserved. </span>
+      </footer>

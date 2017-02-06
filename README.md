@@ -2,20 +2,23 @@
 
 ### Projects
 <table>
-      <tbody><tr><strong>
-          <td>Unit No. #</td>
-          <td>Unit Identifier</td>
-          <td>URL / Link</td></strong>
+      <tbody><tr>
+          <td><strong>Project #</strong></td>
+          <td><strong>Identifier</strong></td>
+          <td><strong>URL / Link</strong></td>
+          <td><strong>Synopsis</strong></td>
         </tr> 
         <tr>
           <td>1.</td>
           <td>Freak ventures LLC.</td>
-          <td><a href="">website rolling soon</a></td>
+          <td>website rolling soon</td>
+          <td> Venture and Start-Up acquisition firm.</td>
         </tr> 
         <tr>
           <td>2.</td>
-          <td></td>
-          <td><a href="">111</a></td>
+          <td>Freak Apps Android</td>
+          <td><a href="http://FreakAppsAndroid.github.io"></a></td>
+          <td> Android Apps development company.</td>
         </tr><tr>
           <td>3.</td>
           <td></td>
